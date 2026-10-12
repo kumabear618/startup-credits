@@ -16,7 +16,7 @@ profile:
     site: https://laravel.com
 sources:
   - source_id: src_3d256661b7186fe9a00315b8338b4f11a0ebc90cd5b03bc05cb7c59da969d5ec
-    url: https://startups.aws.com/offers?lang=en-US
+    url: https://startups.aws.com/offers/laravel-300
   - source_id: src_105574a4857a30c678bdcde50aa802ee2acf7face37430c59646bb7cf12c1e62
     url: https://laravel.com/cloud
 programs: []
@@ -61,7 +61,7 @@ offers:
       availability: membership
       method: other
       instructions: Sign in to AWS Activate Offers and use EASY APPLY on the Laravel Cloud offer.
-      url: https://startups.aws.com/offers?lang=en-US
+      url: https://startups.aws.com/offers/laravel-300
     source_ids:
       - src_3d256661b7186fe9a00315b8338b4f11a0ebc90cd5b03bc05cb7c59da969d5ec
       - src_105574a4857a30c678bdcde50aa802ee2acf7face37430c59646bb7cf12c1e62
