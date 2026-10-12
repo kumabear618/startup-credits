@@ -16,7 +16,7 @@ profile:
     site: https://laravel.com
 sources:
   - source_id: src_3d256661b7186fe9a00315b8338b4f11a0ebc90cd5b03bc05cb7c59da969d5ec
-    url: https://startups.aws.com/offers/laravel-300
+    url: https://startups.aws.com/offers?lang=en-US
   - source_id: src_105574a4857a30c678bdcde50aa802ee2acf7face37430c59646bb7cf12c1e62
     url: https://laravel.com/cloud
 programs: []
