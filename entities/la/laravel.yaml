@@ -25,14 +25,13 @@ offers:
     offer_slug: laravel-cloud-aws-activate
     offer_slug_aliases: []
     title: $300 to deploy on Laravel Cloud through AWS Activate
-    summary: AWS Activate members with a visible business can get USD 300 to deploy on Laravel Cloud through the Activate partner offers; pre-launch startups describe what they are building.
+    summary: Startups get USD 300 to deploy anything on Laravel Cloud, a fully managed deployment platform, through the AWS Activate partner offers.
     lifecycle:
       status: active
       effective_from: 2026-09-06T01:56:52Z
     economics:
       consideration:
-        kind: unknown
-        description: The AWS Activate offer page does not state any payment or other requirement beyond eligibility.
+        kind: none
       benefits:
         - benefit_id: ben_primary
           description: $300 to deploy anything on Laravel Cloud.
@@ -44,16 +43,10 @@ offers:
             kind: exact
     eligibility:
       rule:
-        kind: all
-        rules:
-          - criterion_id: cri_aws_activate_membership
-            kind: manual
-            reason: external-verification
-            statement: The startup signs in to AWS Activate, whose partner offers page lists this offer.
-          - criterion_id: cri_laravel_visible_business
-            kind: manual
-            reason: external-verification
-            statement: Must have a visible business, such as a live web app with some initial customers even if not fully scaled; pre-launch startups should provide details on what they are building.
+        criterion_id: cri_aws_activate_membership
+        kind: manual
+        reason: external-verification
+        statement: The startup signs in to AWS Startups, which shows the AWS Activate partner offers it is eligible for.
     roles:
       terms_authority_entity_id: ent_01m1t6xj9tdgahc772e0rvnx1k
       access_operator_entity_id: ent_01kyh8fpe10b164tj935t8k5zb
