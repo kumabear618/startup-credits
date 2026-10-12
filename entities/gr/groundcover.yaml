@@ -18,7 +18,7 @@ sources:
   - source_id: src_9d469f65019d41595358eea6ac859c475832fa996b46ce44417e7b232b8f8768
     url: https://www.groundcover.com/
   - source_id: src_96ea3dc9541a07805a0e2c5d60d3eed83d47101fdd3da088e283ca0859b0a230
-    url: https://startups.aws.com/offers?lang=en-US
+    url: https://startups.aws.com/offers/groundcover-inc
 programs: []
 offers:
   - offer_id: off_01m1d16yagamvm9x8ya4pk7y91
