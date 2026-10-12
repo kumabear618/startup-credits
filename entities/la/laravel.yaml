@@ -46,7 +46,7 @@ offers:
         criterion_id: cri_aws_activate_membership
         kind: manual
         reason: external-verification
-        statement: The startup signs in to AWS Startups, which shows the AWS Activate partner offers it is eligible for.
+        statement: Sign in to AWS Startups to see whether you are eligible.
     roles:
       terms_authority_entity_id: ent_01m1t6xj9tdgahc772e0rvnx1k
       access_operator_entity_id: ent_01kyh8fpe10b164tj935t8k5zb
