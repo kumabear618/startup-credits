@@ -49,7 +49,7 @@ offers:
         criterion_id: cri_01
         kind: manual
         reason: external-verification
-        statement: Must be an eligible AWS startup customer.
+        statement: Must be an AWS startup customer.
     roles:
       terms_authority_entity_id: ent_01m1d16yabjvdqx6nyja509a16
       access_operator_entity_id: ent_01kyh8fpe10b164tj935t8k5zb
