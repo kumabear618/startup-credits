@@ -16,8 +16,6 @@ profile:
 sources:
   - source_id: src_0fc453e4f6b1de982643df397dbd46b660735ac717f84d78864510b870a77d76
     url: https://clevertap.com/startup-pricing
-  - source_id: src_3397aa0b845d66a1d4036debf67e9b0ff478c50a9268fd8ad361d78cb040ec7a
-    url: https://clevertap.com/startups
 programs: []
 offers:
   - offer_id: off_01kyygma8266wg2s2zfn9xtepr
