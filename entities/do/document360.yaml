@@ -10,7 +10,7 @@ entity:
       valid_from: 2026-08-01T07:51:51.676Z
   category: support
 profile:
-  description: Instantly create a knowledge base for your customers and teams. Build FAQ, User guides, Product Documentation, Standard Operating Procedures and many more
+  description: The knowledge base that scales with your product.
   links:
     site: https://document360.com
 sources:
@@ -21,7 +21,7 @@ programs:
     program_slug: document360-startup-program
     program_slug_aliases: []
     title: Document360 Startup Program
-    summary: Join Document360's startup program to access exclusive benefits, including discounted pricing on Business and Enterprise plans and white-glove onboarding for early-stage startups.
+    summary: Document360's startup program is designed for early-stage startups. It offers 50% off Business and Enterprise plans, a personalized setup for a knowledge base site, and white glove onboarding.
     source_ids:
       - src_d492f932dbaec08ed988c2cd06512cba203a77e7ae00747c82de83def97bd0f6
 offers:
