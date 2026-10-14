@@ -10,7 +10,7 @@ entity:
       valid_from: 2026-07-27T07:42:27.282Z
   category: support
 profile:
-  description: Zendesk provides AI-powered customer service and resolution software to help businesses manage customer support across multiple channels.
+  description: Zendesk is an all-in-one, AI-powered customer service solution that includes Ticketing, Messaging, Help Center, and Voice.
   links:
     site: https://www.zendesk.com/au
 sources:
@@ -29,19 +29,21 @@ offers:
     offer_slug_aliases:
       - 30-off-first-year-with-zendesk-for-startups-50-to-250-employees
     title: Zendesk for Startups Programme
-    summary: Eligible early-stage startups can get up to 2 years of free access to the Zendesk Resolution Platform, including Professional Suite and Copilot for up to 50 agents.
+    summary: The startups program provides early stage qualified startups up to 2 years free of the Zendesk Resolution Platform for up to 50 agents (depending on the funding profile and partner).
     lifecycle:
       status: active
       effective_from: 2026-07-27T07:42:27.282Z
     economics:
       consideration:
-        kind: unknown
-        description: The source record did not establish separate consideration.
+        kind: none
       benefits:
         - benefit_id: ben_primary
-          description: Up to 2 years free
+          description: up to 2 years free of the Zendesk Resolution Platform for up to 50 agents
           kind: free-service
-          service: Up to 2 years free
+          service: Zendesk Resolution Platform for up to 50 agents
+          duration:
+            kind: up-to
+            value: P2Y
     eligibility:
       rule:
         kind: manual
